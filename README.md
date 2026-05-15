@@ -1,4 +1,4 @@
 # trading-demo
 #This is new trading view
 <br>
-lets start the view
+lets start the view(new code)
